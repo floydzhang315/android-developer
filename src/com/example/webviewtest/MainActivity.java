@@ -9,7 +9,7 @@ import android.webkit.WebViewClient;
 public class MainActivity extends Activity {
 
 	//记得一定要前面加上http, 否则会报找不到网页
-	//private String url = "http://www.51cto.com";
+	//private String url = "http://119.254.108.211/ftphome/android";
 	private String url = "http://119.254.108.211/ftphome/android";
 	public static String TAG = "webview";
 	@Override
