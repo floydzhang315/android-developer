@@ -1,4 +1,3 @@
-https://github.com/floydzhang1984/android-developerhttps://github.com/floydzhang1984/android-developerhttps://github.com/floydzhang1984/android-developerhttps://github.com/floydzhang1984/android-developerhttps://github.com/floydzhang1984/android-developerhttps://github.com/floydzhang1984/android-developerpackage com.example.webviewtest;
 
 import android.app.Activity;
 import android.os.Bundle;
